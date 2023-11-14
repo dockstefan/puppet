@@ -8,7 +8,7 @@ Puppet docker base images.
 
 ## Description
 
-You can find published versions of these images on [Docker Hub](https://hub.docker.com/r/ghstefan):
+You can find published versions of these images on [Docker Hub](https://hub.docker.com/r/dockstefan):
 
 | Image | Stars | Size | Pulls |
 | ----- | ----- | ---- | ----- |
