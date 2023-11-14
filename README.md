@@ -12,7 +12,8 @@ You can find published versions of these images on [Docker Hub](https://hub.dock
 
 | Image | Stars | Size | Pulls |
 | ----- | ----- | ---- | ----- |
-| [dockstefan/s3sync](https://hub.docker.com/r/dockstefan/s3sync) | ![Docker Stars](https://img.shields.io/docker/stars/dockstefan/s3sync) | ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/dockstefan/s3sync) | ![Docker Pulls](https://img.shields.io/docker/pulls/dockstefan/s3sync) |
+| [dockstefan/puppet](https://hub.docker.com/r/dockstefan/puppet) | ![Docker Stars](https://img.shields.io/docker/stars/dockstefan/puppet) | ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/dockstefan/puppet) | ![Docker Pulls](https://img.shields.io/docker/pulls/dockstefan/puppet) |
+| [dockstefan/puppetboard](https://hub.docker.com/r/dockstefan/puppetboard) | ![Docker Stars](https://img.shields.io/docker/stars/dockstefan/puppetboard) | ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/dockstefan/puppetboard) | ![Docker Pulls](https://img.shields.io/docker/pulls/dockstefan/puppetboard) |
 
 ### Unmaintained images
 
